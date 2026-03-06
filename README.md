@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![Portfolio Cover](public/github/cover.png)
 
-## Getting Started
+# Zachary Sonday
 
-First, run the development server:
+Designing the systems behind great products.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Most products fail long before users ever see them.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This portfolio explores a belief:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Great products don’t happen by accident.  
+They happen by design.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Not just the UI.  
+The system behind it.
 
-## Learn More
+People.  
+Process.  
+Tools.
 
-To learn more about Next.js, take a look at the following resources:
+Aligned into one rhythm.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Philosophy
 
-## Deploy on Vercel
+I design for the people building the product  
+so they can build better products for users.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Great UX is not just interface design.  
+It is the operating system of a product team.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## Built With
+
+Next.js  
+React  
+TypeScript  
+GSAP  
+Tailwind CSS
+
+---
+
+## Project Structure
+
+- `src/scenes` — narrative scenes
+- `src/ui` — reusable interface components
+- `src/engine` — scroll and scene engine
+- `src/content` — story copy and content
+
+---
+
+## Status
+
+In progress.
